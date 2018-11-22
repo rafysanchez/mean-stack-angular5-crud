@@ -1,3 +1,5 @@
+usar npm start !!!!!!! para funcionar o back end
+
 # MEAN Stack (Angular 5) CRUD Web Application Example
 
 
